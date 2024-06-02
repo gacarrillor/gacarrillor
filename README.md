@@ -26,9 +26,9 @@
 <br /><br /><br /><br /><br /><br /><br /><br />
 <div width="100%" align="center">
   <a href="https://github.com/gacarrillor/vec2dtransf" align="left">
-    <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gacarrillor&repo=vec2dtransf&title_color=3382ed&text_color=64748b&icon_color=22c55e&bg_color=ffffff&hide_border=false&locale=en" />
+    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gacarrillor&repo=vec2dtransf&title_color=3382ed&text_color=64748b&icon_color=22c55e&bg_color=ffffff&hide_border=false&locale=en" />
   </a>
-  <a href="https://github.com/gacarrillor/pg2ili" align="right"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gacarrillor&repo=pg2ili&title_color=3382ed&text_color=64748b&icon_color=22c55e&bg_color=ffffff&hide_border=false&locale=en" />
+  <a href="https://github.com/gacarrillor/pg2ili" align="right"><img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gacarrillor&repo=pg2ili&title_color=3382ed&text_color=64748b&icon_color=22c55e&bg_color=ffffff&hide_border=false&locale=en" />
   </a>
 </div>
 
