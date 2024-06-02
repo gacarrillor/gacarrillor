@@ -10,9 +10,9 @@
 <br /><br /><br /><br /><br /><br /><br /><br />
 <div width="100%" align="center">
   <a href="https://github.com/gacarrillor/loadthemall" align="left">
-    <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gacarrillor&repo=loadthemall&title_color=3382ed&text_color=64748b&icon_color=22c55e&bg_color=ffffff&hide_border=false&locale=en" />
+    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gacarrillor&repo=loadthemall&title_color=3382ed&text_color=64748b&icon_color=22c55e&bg_color=ffffff&hide_border=false&locale=en" />
   </a>
-  <a href="https://github.com/gacarrillor/AppendFeaturesToLayer" align="right"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gacarrillor&repo=AppendFeaturesToLayer&title_color=3382ed&text_color=64748b&icon_color=22c55e&bg_color=ffffff&hide_border=false&locale=en" />
+  <a href="https://github.com/gacarrillor/AppendFeaturesToLayer" align="right"><img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gacarrillor&repo=AppendFeaturesToLayer&title_color=3382ed&text_color=64748b&icon_color=22c55e&bg_color=ffffff&hide_border=false&locale=en" />
   </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br /><br />
