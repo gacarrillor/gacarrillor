@@ -20,7 +20,7 @@
   <a href="https://github.com/gacarrillor/pyqgis_scripts" align="left">
     <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gacarrillor&repo=pyqgis_scripts&title_color=3382ed&text_color=64748b&icon_color=22c55e&bg_color=ffffff&hide_border=false&locale=en" />
   </a>
-  <a href="https://github.com/gacarrillor/AutoFields" align="right"><img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gacarrillor&repo=AutoFields&title_color=3382ed&text_color=64748b&icon_color=22c55e&bg_color=ffffff&hide_border=false&locale=en" />
+  <a href="https://github.com/gacarrillor/QGIS-Resources" align="right"><img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gacarrillor&repo=QGIS-Resources&title_color=3382ed&text_color=64748b&icon_color=22c55e&bg_color=ffffff&hide_border=false&locale=en" />
   </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br /><br />
