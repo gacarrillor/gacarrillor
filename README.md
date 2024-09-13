@@ -38,12 +38,12 @@
 # Electronics / DIY
 
 <div align="center">
-  <a href="https://www.instructables.com/Soccer-Penalty-Kicks-Game-with-Wiring-and-Arduino/">
-    <img align="center" width="80%" src="https://raw.githubusercontent.com/gacarrillor/electronics/master/imgs/IMG_3602_mod.png" />
+  <a href="https://www.instructables.com/Soccer-Penalty-Kicks-Game-with-Wiring-and-Arduino/" align="left">
+    <img align="center" width="47%" src="https://raw.githubusercontent.com/gacarrillor/electronics/master/imgs/IMG_3602_mod.png" />
   </a>
-  <!-- <a href="https://www.instructables.com/Alarm-clock-with-Wiring-or-Arduino/">
-    <img align="right" width="40%" src="https://raw.githubusercontent.com/gacarrillor/electronics/master/imgs/IMG_3966_mod.png" />
-  </a> -->
+  <a href="https://www.instructables.com/Alarm-clock-with-Wiring-or-Arduino/" align="right">
+    <img align="center" width="47%" src="https://raw.githubusercontent.com/gacarrillor/electronics/master/imgs/IMG_3966_mod.png" />
+  </a>
 </div>
 <br />
 <div align="center">
